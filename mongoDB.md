@@ -1,0 +1,5 @@
+# MongoDB
+
+MongoDB es un sistema de base de datos NoSQL orientado a documentos. A diferencia de las bases de datos relacionales tradicionales, MongoDB utiliza documentos similares a JSON con esquemas dinámicos (MongoDB los llama BSON), lo que permite que los datos se almacenen y se combinen de maneras más libres y eficientes. Es una opción popular para aplicaciones que necesitan alta disponibilidad, escalabilidad y gestión de grandes volúmenes de datos, especialmente cuando estos datos no se ajustan bien a los modelos tabulares de las bases de datos relacionales. MongoDB se utiliza comúnmente en aplicaciones modernas de desarrollo web y móvil debido a su flexibilidad, rendimiento y escalabilidad.
+
+![MongoDB](https://images.techhive.com/images/article/2017/04/mongodb_primary-100718920-large.jpg?auto=webp&quality=85,70)
